@@ -29,9 +29,10 @@ SQL Analysis
 [SQL Query 1]
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/432e4b4e-c6c0-458f-97f2-85ba05128f56" />
-[SQL Query 2]
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/432e4b4e-c6c0-458f-97f2-85ba05128f56" />
+[SQL Query 2]
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/251994ec-b356-4ed8-8dd2-ee8aa47e700e" />
+
 [SQL Query 3]
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d82d2cb4-4696-4484-b291-c5ec9f3f7a90" />
